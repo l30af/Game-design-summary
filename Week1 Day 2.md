@@ -68,10 +68,10 @@
   - 교정 후 : 회복아이템으로 회복 할 수 있는 체력 수치가 정해져 있다.
 
 # 알마인드 작성 예시
-- 알마인드 | 공식 홈페이지
+- [알마인드 | 공식 홈페이지](https://www.altools.co.kr/Download/ALMind.aspx)
 
 # 맵 제작 관련 사이트
-- Inkarnate
+- [Inkarnate - Create Fantasy Maps Online](https://inkarnate.com/)
 
 # 게임 발표 필수 사항
 - 게임 포스터, 공식 사진
