@@ -1,7 +1,3 @@
-# **기획서 샘플**
-- [Horus.docx](https://github. com/l30af/Game-design-summary/files/11550383/35126b641daaf129.docx)
-- [IEA.docx](https://github. com/l30af/Game-design-summary/files/11550385/IEA.docx)
-
 # **게임 세계관**
 ## **1. 게임 세계관이란?**
 - 어떤 지식이나 관점을 깆고 세계를 근본적으로 인식하는 방식이나 틀
